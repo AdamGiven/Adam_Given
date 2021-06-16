@@ -1,7 +1,0 @@
-Installation Instructions:
-
-IMPORTANT: Site is built using Google Chrome with php 5.6.40 and mysql 5.7.31. 
-		   The site relies heavily on the morphs table which is loaded from the morphs.txt. Ensure all site files are in the same location.
-
-Access the index.php to begin viewing the site. The site should send you to the login page if you attempt to circumvent the registration and login.  
-*/
