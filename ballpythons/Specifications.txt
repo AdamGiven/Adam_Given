@@ -1,0 +1,11 @@
+/*
+Project Specifications:
+
+This site teaches a little bit about Ball Pythons, their genes, and showcases some of the unique morphs(color patters) they can have.
+It also gives a small list of existing morphs and some data on their value and populaterity and allows the user to create a list of their favorites.
+
+All the data is maintained through php mysql scripts by creating the database and database tables, adding and dropping database records.
+One table called "members" which holds user account info, one table called "morphs" which holds the names and data associated with the different morphs.
+The third table is named using session state information to get the users email and use it to create a table name so that every user can have a 
+unique database table to hold their list of favorites. 
+*/
